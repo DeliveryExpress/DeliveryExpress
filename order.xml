@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <order>
+	<application id=" ">
+		<sender name=" " surname=" ">
+			<city></city>
+			<address></address>
+		</sender>
+		<recipient name=" " surname=" ">
+			<city></city>
+			<address></address>
+		</recipient>
+		<rate name=" ">
+			<price/>
+			<terms/>
+		</rate>
+		<payment>
+			<card num=" "/>
+		</payment>
+		<cargo weight=" " volume=" "/>
+	</application>
+  </order>
