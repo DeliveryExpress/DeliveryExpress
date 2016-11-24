@@ -2,21 +2,26 @@
 
   <order>
 	<application id=" ">
-		<sender name=" " surname=" ">
+		<sender name=" " surname=" " login=" ">
 			<city></city>
 			<address></address>
 		</sender>
-		<recipient name=" " surname=" ">
+		<recipient name=" " surname=" " login=" ">
 			<city></city>
 			<address></address>
 		</recipient>
 		<rate name=" ">
-			<price/>
-			<terms/>
+			<price></price>
+			<terms></terms>
 		</rate>
 		<payment>
 			<card num=" "/>
 		</payment>
-		<cargo weight=" " volume=" "/>
+		<cargo weight=" " volume=" ">
+			<view></view>
+			<model></model>
+			<fabricator></fabricator>
+			<amount></amount>
+        </cargo>
 	</application>
   </order>
