@@ -49,21 +49,11 @@ body{
 	color: white;
 }
 
-.tagline{
-	background-color: #8B8989;
-	text-align: center;
-	font-size: 1.2em;
-	color: white;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	margin-top: -20px;
-}
-
 .footer{
 	width: 100%;
 	text-align: center;
 	background-color:#8B8989;
-	font-size: 20px;
+	font-size: 15px;
 	padding-bottom: 10px;
 	padding-top: 10px;
 	margin-top: 20px;
@@ -75,4 +65,8 @@ body{
 }
 .inf2 {
 	padding-top: 30px;
+}
+
+button{
+	margin-left: 45%;
 }
