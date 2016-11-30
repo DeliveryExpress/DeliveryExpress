@@ -70,10 +70,6 @@ body{
 	position: fixed; left: 0; right: 0; bottom: 0;
 }
 
-.inf1 {
-	padding-top: 90px;
-}
-
 .rules{
 	font-size: 1.25em;
 	margin-top: 40px;
@@ -129,14 +125,57 @@ body{
 
 .field span{
 	float: left;
-	padding-right:10px; 
+	padding-right:10px;
+	transition: 0.3s ease; 
 }
 
 input{
-	border: 1px solid grey;
+	border: 1.5px solid grey;
 	border-radius: 5px;
+}
+
+button{
+	   font-weight: 700;
+  color: white;
+  text-decoration: none;
+  height: 3em;
+  border-radius: 3px;
+  background:#8B8989 ;
+  transition: 0.2s;
+}
+
+button:hover{
+	  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
 }
 
 .but{
 	text-align: center;
+}
+
+input:hover{
+	border-color:blue;
+}
+
+.reg{
+	float: left;
+	text-align: center; 
+	left: 50%;
+	width: 480px;
+	padding: 25px 25px;
+	position: absolute;  
+	margin-left: -240px; 
+}
+
+.reg input{
+	width: 230px;
+}
+
+.reg h2{
+	margin-top: -20px;
+}
+
+.page h2{
+	margin-top: -20px;
 }
