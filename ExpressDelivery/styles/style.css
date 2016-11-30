@@ -73,13 +73,6 @@ body{
 .inf1 {
 	padding-top: 90px;
 }
-.inf2 {
-	padding-top: 30px;
-}
-
-button{
-	margin-left: 45%;
-}
 
 .rules{
 	font-size: 1.25em;
@@ -110,4 +103,36 @@ button{
 
 .cabinet a:hover{
 	color: black;
+}
+
+.page{
+	float: left;
+	text-align: center; 
+	left: 50%;
+	width: 600px;
+	padding: 25px 25px;
+	position: absolute;  
+	margin-left: -300px; 
+}
+
+.field{
+	text-align: right;
+	clear: both;
+	line-height: 25px;
+	margin: 10px; 
+}
+
+.field label{
+	float: left;
+	padding-right:10px; 
+}
+
+.field span{
+	float: left;
+	padding-right:10px; 
+}
+
+input{
+	border: 1px solid grey;
+	border-radius: 5px;
 }
