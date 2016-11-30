@@ -180,5 +180,18 @@ input:hover{
 .page h2{
 	margin-top: -20px;
 }
-=======
->>>>>>> e4a9eadf2e72ba1a62fa010816382925280259c0
+.count{
+	margin-top: 10px;
+}
+
+.okay{
+	text-align: right;
+	display: none;
+	color: green;
+}
+
+.ploxo{
+	text-align:right; 
+	display: none;
+	color: red;
+}
