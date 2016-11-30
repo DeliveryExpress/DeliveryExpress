@@ -18,7 +18,7 @@
 		</rate>
 		<payment>
 			<card name=" " num=" "/>
-			<cash/>
+			<cash currency=" "/>
 			<e-wallet name=" " num=" "/>
 		</payment>
 		<cargo weight=" ">
