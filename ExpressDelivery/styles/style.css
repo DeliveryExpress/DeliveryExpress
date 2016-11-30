@@ -136,3 +136,7 @@ input{
 	border: 1px solid grey;
 	border-radius: 5px;
 }
+
+.but{
+	text-align: center;
+}
