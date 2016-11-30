@@ -41,7 +41,7 @@ body{
 }
 
 .cash{
-	margin-top: 35px;
+	margin-top: 55px;
 }
 
 .menu .navbar-collapse {
@@ -153,6 +153,7 @@ button:hover{
 .but{
 	text-align: center;
 }
+<<<<<<< HEAD
 
 input:hover{
 	border-color:blue;
@@ -179,3 +180,5 @@ input:hover{
 .page h2{
 	margin-top: -20px;
 }
+=======
+>>>>>>> e4a9eadf2e72ba1a62fa010816382925280259c0
