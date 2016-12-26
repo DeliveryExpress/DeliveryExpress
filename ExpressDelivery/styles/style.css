@@ -220,3 +220,32 @@ input:hover{
 .text a:hover{
 	color: black;
 }
+
+.but2{
+	position: absolute;
+	left: 50%;
+	margin-left: -46.5px;
+}
+
+.personal{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.table{
+	text-align: center;
+}
+
+table{
+	margin: auto;	
+	width: 70%;
+}
+
+.hat{
+	border:3px solid black;
+}
+
+td{
+	padding: 10px;
+	border:1px solid black;
+}

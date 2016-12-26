@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <orders>
+	<application id="565">
+		<sender name="Иван" surname="Иванович" login="ivan1596">
+			<city>Минск</city>
+			<address>ул. Октбрьская, д.10/2, кв. 15</address>
+		</sender>
+		<recipient>
+			<name>Никита</name>
+			<surname>Борщ</surname>
+			<city>Брест</city>
+			<address>ул. Вишневая, д. 28, кв. 28</address>
+		</recipient>
+		<rate name="обычный">
+			<price></price>
+			<terms></terms>
+		</rate>
+		<payment>
+			<card name=" " num=" "/>
+			<cash currency=" "/>
+			<e-wallet name=" " num=" "/>
+		</payment>
+		<cargo weight="50">
+			<view>Одежда</view>
+			<model></model>
+			<amount>1</amount>
+        </cargo>
+	</application>
+  </orders>
